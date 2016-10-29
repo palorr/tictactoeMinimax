@@ -7,3 +7,9 @@ C:\Users\pc\Google Drive\aueb 7th semester\τεχνητη νοημοσυνη\ε�
 C:\Users\pc\Google Drive\aueb 7th semester\τεχνητη νοημοσυνη\εργασια 1\tictactoe c#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\pc\Google Drive\aueb 7th semester\τεχνητη νοημοσυνη\εργασια 1\tictactoe c#\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\pc\Google Drive\aueb 7th semester\τεχνητη νοημοσυνη\εργασια 1\tictactoe c#\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\pc\Desktop\tictactoeMinimax\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pc\Desktop\tictactoeMinimax\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\pc\Desktop\tictactoeMinimax\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\pc\Desktop\tictactoeMinimax\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\pc\Desktop\tictactoeMinimax\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\pc\Desktop\tictactoeMinimax\ConsoleApplication1\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache

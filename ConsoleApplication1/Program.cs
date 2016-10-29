@@ -12,8 +12,8 @@ namespace tictactoe
         {
             //We create the players and the board
             //MaxDepth for the MiniMax algorithm is set to 2; feel free to change the values
-            GamePlayer XPlayer = new GamePlayer(2, Board.X);
-            GamePlayer OPlayer = new GamePlayer(2, Board.O);
+            GamePlayer XPlayer = new GamePlayer(9, Board.X);
+            GamePlayer OPlayer = new GamePlayer(9, Board.O);
             Board board = new Board();
 
             //Put this out of comments for the O to play first

@@ -17,13 +17,13 @@ namespace tictactoe
         {
             maxDepth = 2;
             playerLetter = Board.X;
-        }
+        } //ctor
 
         public GamePlayer(int maxDepth, int playerLetter)
         {
             this.maxDepth = maxDepth;
             this.playerLetter = playerLetter;
-        }
+        } //ctor
 
         //Initiates the MiniMax algorithm
         public Move MiniMax(Board board)
@@ -65,7 +65,7 @@ namespace tictactoe
                 {
                     if ((move.getValue() == maxMove.getValue()))
                     {
-                        //If the heuristic has the save value then we randomly choose one of the two moves
+                        //If the heuristic has the same value then we randomly choose one of the two moves
                         if (r.Next(2) == 0)
                         {
                             maxMove.setRow(child.getLastMove().getRow());
