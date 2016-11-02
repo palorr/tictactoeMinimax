@@ -42,8 +42,9 @@ namespace tictactoe
                         break;
                 }
                 board.print();
-                Console.Read();
+                
             }
+            Console.Read();
         }
     }
 }
